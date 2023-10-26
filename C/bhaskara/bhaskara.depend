@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1698201544 source:c:\users\weverson barbieri\onedrive\Área de trabalho\c progr projects\c\bhaskara\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
