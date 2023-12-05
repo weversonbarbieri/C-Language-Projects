@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1701780808 source:c:\c language projects\c language projects\c\square_triangle_trapeze_area\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
