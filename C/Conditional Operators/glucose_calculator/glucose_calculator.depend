@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1701989393 source:c:\c language projects\c language projects\c\conditional operators\glucose_calculator\main.c
+	<stdio.h>
+	<stdlib.h>
+
