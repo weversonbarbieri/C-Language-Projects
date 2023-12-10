@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1702252107 source:c:\users\weverson barbieri\onedrive\Área de trabalho\products_code_price\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
