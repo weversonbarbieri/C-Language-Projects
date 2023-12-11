@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1702335099 source:c:\c language projects\c language projects\c\conditional operators\game_time\main.c
+	<stdio.h>
+	<stdlib.h>
+
