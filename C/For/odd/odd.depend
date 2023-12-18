@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1702859849 source:c:\c language projects\c language projects\c\for\odd\main.c
+	<stdio.h>
+	<stdlib.h>
+
