@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1702865154 source:c:\c language projects\c language projects\c\for\odd_even_negative_positive\main.c
+	<stdio.h>
+	<stdlib.h>
+
