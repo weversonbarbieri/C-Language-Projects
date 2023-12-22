@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1703205378 source:c:\c language projects\c language projects\c\vector\sum_vectors\main.c
+	<stdio.h>
+	<stdlib.h>
+
