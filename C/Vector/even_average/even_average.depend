@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1703457888 source:c:\c language projects\c language projects\c\vector\even_average\main.c
+	<stdio.h>
+	<stdlib.h>
+
