@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1703621171 source:c:\c language projects\c language projects\c\vector\students_approved\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
