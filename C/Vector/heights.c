@@ -11,27 +11,23 @@ int main()
 {
     int i, N, younger;
     double averageH, sumH, Ypercentage;
-    int ages[N];
-    double heights[N];
-    char names[N][50];
-
-
-
 
     printf("How many people do you want to enter? ");
     scanf("%d", &N);
+
+    int ages[N];
+    double heights[N];
+    char names[N][50];
 
 
     for (i = 0; i < N; i++) {
         printf("Enter the %da people's data. \n", i + 1);
         printf("Name: ");
         limpar_entrada();
-        scanf("%c\n", &names[i]);
+        gets(names[i]);
         printf("Age: ");
-        limpar_entrada();
         scanf("%d", &ages[i]);
         printf("Height: ");
-        limpar_entrada();
         scanf("%lf", &heights[i]);
 
     }
@@ -55,7 +51,13 @@ int main()
 
     }
     Ypercentage = 100.0 * younger / N;
-    printf("People being less then 16 years old: %.1lf\n", Ypercentage);
+    printf("People being less then 16 years old: %.1lf %%\n", Ypercentage);
+
+    for (i = 0; i < N; i++) {
+        if (ages[i] < 16) {
+            printf("%s\n", names[i]);
+        }
+    }
 
 
 
