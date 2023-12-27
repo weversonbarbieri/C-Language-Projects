@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1703714836 source:c:\c language projects\c language projects\c\vector\supermarket\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
