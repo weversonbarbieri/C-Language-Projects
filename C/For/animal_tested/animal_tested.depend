@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1703028864 source:c:\c language projects\c language projects\c\for\animal_tested\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
