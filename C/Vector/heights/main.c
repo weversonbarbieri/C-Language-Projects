@@ -24,6 +24,7 @@ int main()
         printf("Enter the %da people's data. \n", i + 1);
         printf("Name: ");
         limpar_entrada();
+        //fseek(stdin, 0, SEEK_END);
         gets(names[i]);
         printf("Age: ");
         scanf("%d", &ages[i]);
