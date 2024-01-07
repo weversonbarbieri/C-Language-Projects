@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1704654616 source:c:\c language projects\c language projects\c\matrix\negative_numbers_matrix\main.c
+	<stdio.h>
+	<stdlib.h>
+
