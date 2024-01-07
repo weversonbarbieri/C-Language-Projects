@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1704657383 source:c:\c language projects\c language projects\c\matrix\greater_number_each_line\main.c
+	<stdio.h>
+	<stdlib.h>
+
